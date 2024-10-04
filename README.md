@@ -1,7 +1,7 @@
 ---
 title: newArticle1
 tags:
-  - ''
+  - 'diverse'
 private: false
 updated_at: ''
 id: null
